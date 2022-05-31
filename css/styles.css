@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 36px;
+    width: 200px;
+    border: 2px solid grey;
+    padding: 20px;
+    margin: 50px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+span {
+    color: grey;
+}
+
+img {
+    width: 200px;
+    margin-left: 50px;
+    margin-top: 50px;
+    border: 15px solid grey;
+    padding: 15px;
+}
